@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+what up?
+
+I'm Jared. I'm nineteen, and I never fucking learned how to read.
